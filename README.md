@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a web application  application that allows users to adopt a digital pet. Users can interact with their pets, such as feeding them, putting them to bed, or playing with them.
+This is a web application that allows users to adopt a digital pet. Users can interact with their pets, such as feeding them, putting them to bed, or playing with them.
 
 ## Setup/Installation Requirements
 
